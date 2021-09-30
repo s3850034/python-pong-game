@@ -3,7 +3,7 @@
 How to Run Program.
 
 - Make Sure Python 3.7 or higher is downloaded
-- Upon the directory, run python main.py
+- Upon the directory, run ```python main.py```
 - If you want to run on PyCharm, then just run main.py as it is.
 
 How to Play?
